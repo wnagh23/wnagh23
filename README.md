@@ -1,4 +1,4 @@
-### Hi, I'm Wojciech 👋
+### Hi, I'm Wojciech
 
 MSc Data Science student at AGH University of Krakow (graduating July 2027), with a Business Analytics background in finance and accounting.
 
@@ -10,4 +10,4 @@ I’m into sports analytics, especially football data, and in what happens to ML
 
 **Tools:** SQL · Python (pandas, scikit-learn) · R · PySpark · AWS (S3, Glue, Athena, Lambda) ·  Git · Docker
 
-📫 [LinkedIn](https://www.linkedin.com/in/wojciechniemiec)
+[LinkedIn](https://www.linkedin.com/in/wojciechniemiec)
